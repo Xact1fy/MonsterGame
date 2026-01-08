@@ -39,3 +39,18 @@
 | **Move Left** | `A` |
 | **Move Right** | `D`  |
 | **Interact** |  `Space` |
+
+---
+
+## 🎯 The Objective
+
+Your mission is simple, but the path is dangerous. To conquer each level, you must master the following:
+
+1.  **Search:** Explore the map to find the hidden keys.
+2.  **Collect:** Pick up all **3 Keys** 🔑 scattered throughout the stage.
+3.  **Escape:** Once you have all three, the **Exit Portal** will unlock. Reach it to advance to the next level!
+
+> [!IMPORTANT]
+> Monsters are always watching. If you get caught before reaching the exit, you'll lose your keys and have to restart the level!
+
+---
